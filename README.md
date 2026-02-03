@@ -1,0 +1,2 @@
+# Finexplay
+The Financial RPG
